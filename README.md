@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deploying the Neighborly App with Azure Functions
 
 ## Project Overview
@@ -242,3 +243,6 @@ RESOURCE_GROUP="<YOUR-RESOURCE-GROUP>"
 # run this command
 az group delete --name $RESOURCE_GROUP
 ```
+=======
+# Neighborly-App
+>>>>>>> 561d5f50e58d7461e7fc80ec8c580cad066ce252
